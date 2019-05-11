@@ -1,3 +1,6 @@
 [submodule "fast-neural-style"]
 	path = fast-neural-style
 	url = https://github.com/jcjohnson/fast-neural-style
+[submodule "pix2pix"]
+	path = pix2pix
+	url = https://github.com/phillipi/pix2pix.git
