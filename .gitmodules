@@ -7,3 +7,6 @@
 [submodule "contextualLoss"]
 	path = contextualLoss
 	url = https://github.com/roimehrez/contextualLoss.git
+[submodule "image-quality-assessment"]
+	path = image-quality-assessment
+	url = git@github.com:VVCepheiA/image-quality-assessment.git
