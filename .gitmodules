@@ -4,3 +4,6 @@
 [submodule "pytorch-CycleGAN-and-pix2pix"]
 	path = pytorch-CycleGAN-and-pix2pix
 	url = https://github.com/rohanbadlani/pytorch-CycleGAN-and-pix2pix.git
+[submodule "contextualLoss"]
+	path = contextualLoss
+	url = https://github.com/roimehrez/contextualLoss.git
