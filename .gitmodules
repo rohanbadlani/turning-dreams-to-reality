@@ -10,3 +10,9 @@
 [submodule "image-quality-assessment"]
 	path = image-quality-assessment
 	url = git@github.com:VVCepheiA/image-quality-assessment.git
+[submodule "Inception-Score"]
+	path = Inception-Score
+	url = git@github.com:VVCepheiA/Inception-Score.git
+[submodule "neural-image-assessment"]
+	path = neural-image-assessment
+	url = git@github.com:VVCepheiA/neural-image-assessment.git
